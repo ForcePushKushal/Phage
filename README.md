@@ -57,14 +57,3 @@
 	3. data processing from user data input of restaurants
 4. Picture through website
 
-## Phase 1.2: 
-
-# Future Features
-1. Restaurant Pages / Food tag pages
-2. Tags for cuisine, food
-3. get a search option for restaurant
-	1. either source it through api
-	2. create database for the restaurants 
-	3. data processing from user data input of restaurants
-4. Picture through website
-
